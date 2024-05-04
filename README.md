@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourRepo/AutoGPT4All.git
+git clone https://github.com/catdevzsh/AutoGPT4All.git
 Navigate to the project directory:
 bash
 Copy code
